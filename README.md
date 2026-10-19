@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22martymulsow%22%2C%22name%22%3A%22Marty%20Mulsow%22%2C%22email%22%3A%22martymulsow%40gmail.com%22%2C%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarty-mulsow-435051361%2F%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Director%20of%20Education%20with%20proven%20track%20record%20of%20success%20in%20retention%2C%20graduation%20of%20certification%20of%20instructional%20teams.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Virtualization%22%2C%22Command%20Line%22%2C%22VPN%22%2C%22Wi-Fi%22%2C%22Incident%20Response%22%2C%22Microsoft%20365%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Subnetting%22%2C%22VLANs%22%2C%22TCP%2FIP%22%2C%22DNS%22%2C%22DHCP%22%2C%22Routing%20%26%20Switching%22%2C%22CompTIA%20Security%2B%22%2C%22Risk%20Management%22%2C%22Azure%20AD%22%5D%2C%22headlines%22%3A%5B%22Director%20of%20Education%22%5D%2C%22customHeadlines%22%3A%5B%22Director%20of%20Education%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22CompTIA%20A%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22https%3A%2F%2Fcp.certmetrics.com%2Fcomptia%2Fen%2Fpublic%2Fverify%2Fcredential%2F9E62PHXTKS9LFCS3%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%22%2C%22issuer%22%3A%22Microsoft%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20Security%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20Network%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22martymulsow%22%2C%22name%22%3A%22Marty%20Mulsow%22%2C%22email%22%3A%22martymulsow%40gmail.com%22%2C%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarty-mulsow-435051361%2F%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Director%20of%20Education%20with%20proven%20track%20record%20of%20success%20in%20retention%2C%20graduation%20of%20certification%20of%20instructional%20teams.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Virtualization%22%2C%22Command%20Line%22%2C%22VPN%22%2C%22Wi-Fi%22%2C%22Incident%20Response%22%2C%22Microsoft%20365%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Subnetting%22%2C%22VLANs%22%2C%22TCP%2FIP%22%2C%22DNS%22%2C%22DHCP%22%2C%22Routing%20%26%20Switching%22%2C%22CompTIA%20Security%2B%22%2C%22Risk%20Management%22%2C%22Azure%20AD%22%5D%2C%22headlines%22%3A%5B%22Director%20of%20Education%22%5D%2C%22customHeadlines%22%3A%5B%22Director%20of%20Education%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22CompTIA%20A%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22https%3A%2F%2Fcp.certmetrics.com%2Fcomptia%2Fen%2Fpublic%2Fverify%2Fcredential%2F9E62PHXTKS9LFCS3%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%22%2C%22issuer%22%3A%22Microsoft%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20Security%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20Network%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Install%20printers%22%2C%22desc%22%3A%22Install%20local%20and%20network%20printer%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Foundary%20Basic%22%2C%22desc%22%3A%22Navigate%2C%20login%2C%20and%20use%20basic%20foundary%20in%20azure%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22pending%22%7D%5D%2C%223%22%3A%5B%7B%22name%22%3A%22Install%20Ubuntu%22%2C%22desc%22%3A%22Install%20Ubuntu%20into%20virtual%20machine%20in%20the%20cloud%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22pending%22%7D%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -50,21 +50,27 @@ Director of Education with proven track record of success in retention, graduati
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Install printers | Install local and network printer | ⏳ Pending | — |
 
 </details>
 
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Foundary Basic | Navigate, login, and use basic foundary in azure | ⏳ Pending | — |
 
 </details>
 
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Install Ubuntu | Install Ubuntu into virtual machine in the cloud | ⏳ Pending | — |
 
 </details>
 
